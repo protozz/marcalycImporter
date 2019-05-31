@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+
+<locale name="es_ES" full_name="Español (España)">
+	<message key="plugins.importexport.marcalycimporter.displayName">Módulo de importación Marcalyc</message>
+	<message key="plugins.importexport.marcalycimporter.description">Importar un número completo creado en marcalyc y se importa en OJS.</message>
+	<message key="plugins.importexport.marcalycimporter.import">Importar</message>
+	<message key="plugins.importexport.marcalycimporter.import.instructions">Por favor, selecciona un archivo generado desde Marcalyc para subirlo y de clic en  en "Subir fichero". Cuando se haya completado la subida del archivo, de clic en "OK" para importarlo al gestor.</message>
+	<message key="plugins.importexport.marcalycimporter.export">Exportar</message>
+
+	<message key="plugins.importexport.marcalycimporter.results">Resultados</message>
+	<message key="plugins.inportexport.native.uploadFile">Por favor, sube un archivo en "Importar" para continuar.</message>
+	<message key="plugins.importexport.marcalycimporter.importComplete">La importación se ha completado con éxito. Se han importado los siguientes elementos:</message>
+	
+	<message key="plugins.importexport.marcalycimporter.exportSubmissionsSelect">Seleccione los artículos para exportar</message>
+	<message key="plugins.importexport.marcalycimporter.exportSubmissions">Exportar artículos</message>
+
+</locale>
